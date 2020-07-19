@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/my-project.iml" filepath="$PROJECT_DIR$/my-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-project-dependencies/my-project-commons/my-project-commons.iml" filepath="$PROJECT_DIR$/my-project-dependencies/my-project-commons/my-project-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-project-dependencies/my-project-dependencies.iml" filepath="$PROJECT_DIR$/my-project-dependencies/my-project-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-project-dependencies/my-project-domains/my-project-domains.iml" filepath="$PROJECT_DIR$/my-project-dependencies/my-project-domains/my-project-domains.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-project-dependencies/my-project-service/my-project-service.iml" filepath="$PROJECT_DIR$/my-project-dependencies/my-project-service/my-project-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-project-dependencies/my-project-tools/my-project-tools.iml" filepath="$PROJECT_DIR$/my-project-dependencies/my-project-tools/my-project-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-project-dependencies/my-project-web/my-project-web.iml" filepath="$PROJECT_DIR$/my-project-dependencies/my-project-web/my-project-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-project-dependencies/my-project-web-admin/my-project-web-admin.iml" filepath="$PROJECT_DIR$/my-project-dependencies/my-project-web-admin/my-project-web-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-project-dependencies/my-project-web-api/my-project-web-api.iml" filepath="$PROJECT_DIR$/my-project-dependencies/my-project-web-api/my-project-web-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-project-dependencies/my-project-web-ui/my-project-web-ui.iml" filepath="$PROJECT_DIR$/my-project-dependencies/my-project-web-ui/my-project-web-ui.iml" />
+    </modules>
+  </component>
+</project>

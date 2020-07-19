@@ -1,0 +1,9 @@
+# Project exclude paths
+/my-project-dependencies/my-project-commons/target/
+/my-project-dependencies/my-project-domains/target/
+/my-project-dependencies/my-project-service/target/
+/my-project-dependencies/my-project-tools/target/
+/my-project-dependencies/my-project-web/target/
+/my-project-dependencies/my-project-web-admin/target/
+/my-project-dependencies/my-project-web-api/target/
+/my-project-dependencies/my-project-web-ui/target/

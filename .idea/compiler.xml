@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="my-project-web" />
+        <module name="my-project-domains" />
+        <module name="my-project-service" />
+        <module name="my-project-web-api" />
+        <module name="my-project-commons" />
+        <module name="my-project-web-ui" />
+        <module name="my-project-web-admin" />
+        <module name="my-project-tools" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="login" target="1.5" />
+      <module name="my-project" target="1.8" />
+      <module name="my-project-common" target="1.5" />
+      <module name="my-project-commons" target="1.8" />
+      <module name="my-project-core" target="1.5" />
+      <module name="my-project-dao" target="1.8" />
+      <module name="my-project-dependencies" target="1.8" />
+      <module name="my-project-domain" target="1.8" />
+      <module name="my-project-domains" target="1.8" />
+      <module name="my-project-login" target="1.5" />
+      <module name="my-project-service" target="1.8" />
+      <module name="my-project-tools" target="1.8" />
+      <module name="my-project-web" target="1.8" />
+      <module name="my-project-web-admin" target="1.8" />
+      <module name="my-project-web-api" target="1.8" />
+      <module name="my-project-web-ui" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="my-project-commons" options="-parameters" />
+      <module name="my-project-dao" options="-parameters" />
+      <module name="my-project-domain" options="-parameters" />
+      <module name="my-project-domains" options="-parameters" />
+      <module name="my-project-service" options="-parameters" />
+      <module name="my-project-tools" options="-parameters" />
+      <module name="my-project-web" options="-parameters" />
+      <module name="my-project-web-admin" options="-parameters" />
+      <module name="my-project-web-api" options="-parameters" />
+      <module name="my-project-web-ui" options="-parameters" />
+    </option>
+  </component>
+</project>
